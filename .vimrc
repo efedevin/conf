@@ -2,6 +2,7 @@ set nocompatible
 
 syntax on
 
+guifont=Monospace 14
 set noerrorbells
 set tabstop=4 softtabstop=4
 set shiftwidth=4
