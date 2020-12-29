@@ -1,7 +1,7 @@
 (tool-bar-mode 0)
 (menu-bar-mode 0) 
 (setq inhibit-startup-screen t)
-(set-frame-font "Ubuntu Mono-12")
+(set-frame-font "Ubuntu Mono-13")
 
 ;; Set up package.el to work with MELPA
 (require 'package)
