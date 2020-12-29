@@ -2,7 +2,7 @@ set nocompatible
 
 syntax on
 
-guifont=Monospace 14
+set guifont=Monaco:h20
 set noerrorbells
 set tabstop=4 softtabstop=4
 set shiftwidth=4
