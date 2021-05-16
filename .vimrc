@@ -30,15 +30,15 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'hugolgst/vimsence'
 Plug 'morhetz/gruvbox'
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
+"Plug 'vim-airline/vim-airline'
+"Plug 'vim-airline/vim-airline-themes'
 "Plug 'jremmen/vim-ripgrep' 
 ""Plug 'vim-utils/vim-man'
 "Plug 'lyuts/vim-rtags'
 "Plug 'kien/ctrlp.vim'
 ""Plug 'mbbill/undotree'
 "Plug 'Valloric/YouCompleteMe'
-Plug 'enricobacis/vim-airline-clock'
+"Plug 'enricobacis/vim-airline-clock'
 ""Plug 'tpope/vim-fugitive'
 call plug#end()
 
