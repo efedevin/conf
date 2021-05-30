@@ -1,2 +1,2 @@
 # conf
-My config files
+config files&*
