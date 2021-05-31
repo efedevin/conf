@@ -59,13 +59,13 @@
     monero
     atom
     unzip
+    # obs-studio
     neofetch
     steam
     openjdk8
     oraclejdk
     nomacs
-    minecraft
-    multimc
+    spotify
     ktorrent
   ];
 
