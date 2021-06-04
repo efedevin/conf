@@ -56,17 +56,16 @@
     firefox
     discord
     vlc
-    monero
     atom
     unzip
-    # obs-studio
+    #obs-studio
     neofetch
     steam
     openjdk8
     oraclejdk
     nomacs
     spotify
-    ktorrent
+    vscodium
   ];
 
 
