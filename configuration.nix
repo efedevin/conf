@@ -52,18 +52,15 @@
   # $ nix search wget
   nixpkgs.config.allowUnfree = true;
   environment.systemPackages = with pkgs; [
-    wget vim
-    firefox
+    chromium
     discord
     vlc
-    atom
     unzip
     #obs-studio
     neofetch
     steam
     openjdk8
     oraclejdk
-    nomacs
     spotify
     vscodium
   ];
